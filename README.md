@@ -1,6 +1,6 @@
 # DevOps-Progress
 
-![DevOps Banner](Assets\devops.jpg)
+![DevOps Banner](Assets/devops.jpg)
 
 ## Welcome to My DevOps Journey! 🚀
 
