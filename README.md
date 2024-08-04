@@ -22,7 +22,7 @@ Every week, I will be sharing a LinkedIn post summarizing my progress along with
 
 ### Follow My Journey
 
-- **Hashnode Blog**: [My DevOps Blog](https://hashnode.com/@yourusername)
+- **Hashnode Blog**: [My DevOps Blog](https://hashnode.com/@AdarshN)
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/adarsh-n-7093b4204/)
 
 ## Contributing
